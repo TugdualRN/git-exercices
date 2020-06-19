@@ -1,2 +1,2 @@
-# git-exercices-
+# git-exercices
 Ajc Formation
